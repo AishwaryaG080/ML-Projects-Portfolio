@@ -1,11 +1,11 @@
-# 🤖 Machine Learning Projects Portfolio
+# Machine Learning Projects Portfolio
 
 A collection of hands-on Machine Learning projects built using Python and Scikit-learn.  
 Each project covers a different ML concept — from supervised classification to unsupervised clustering.
 
 ---
 
-## 📁 Projects
+## Projects
 
 | Project | Algorithm | Type | Dataset |
 |---|---|---|---|
@@ -97,7 +97,7 @@ python AdvertisingCaseStudyModelBuildingVisualization.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.x
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
@@ -109,7 +109,7 @@ pip install scikit-learn pandas numpy matplotlib
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aishwarya Dalvi**  
 Python Developer | Machine Learning Enthusiast  
